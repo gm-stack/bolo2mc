@@ -1,0 +1,18 @@
+Bolo ID		Description			Minecraft Block
+0			Building			Diamond Block (57)
+1			River				Water (08)
+2			Swamp				Soul Sand (88)
+3			Crater				Slab (44)
+4			Road				Obsidian (49)
+5			Forest				Wood (17)
+6			Rubble				Cobblestone (04)
+7			Grass				Grass (02)
+8			Shot Building		Diamond Block (57)
+9			River with Boat		Water (08)
+
+10			Swamp with mine		as above
+11			Crater with mine
+12			Road with mine
+13			Forest with mine
+14			Rubble with mine
+15			Grass with mine
