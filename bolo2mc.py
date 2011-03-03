@@ -19,6 +19,8 @@ for y in xrange(256):
 			data += "\x00"
 		
 
+# http://www.minecraftwiki.net/wiki/Schematic_File_Format
+
 nbtfile = NBTFile()
 nbtfile.name = "Schematic"
 nbtfile.tags.append(TAG_Short(name="Width",value=256))
