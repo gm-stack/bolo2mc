@@ -36,4 +36,4 @@ nbtfile.tags.append(entlist)
 
 print nbtfile.pretty.tree()
 
-nbtfile.write_file(out.schematic)
+nbtfile.write_file("out.schematic")
